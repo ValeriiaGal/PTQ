@@ -27,6 +27,7 @@ namespace PTQ.Application.Services
             {
                 Id = q.Id,
                 Name = q.Name,
+
             });
         }
 
